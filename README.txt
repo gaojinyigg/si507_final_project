@@ -6,6 +6,8 @@ If you want seach the id url will be "http://www.omdbapi.com/?apikey=9da705df&i=
 
 For itunes the api used is "https://itunes.apple.com/search?term=xxx&limit=xxx".
 
+package needed: requests, json, csv, webbrowser, pprint
+
 use "python final_project.py" to start the system 
 
 Instructions for the interaction:
